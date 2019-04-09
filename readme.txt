@@ -1,18 +1,17 @@
-# 1337-RSS-Feed-WP-Widget-Plugin
-
-An RSS Feed plugin made for sharing.
-
-![picture](https://mylyfesocial.com/img/sc00.png)![picture](https://mylyfesocial.com/img/sc01.png)
-
-
-
-WordPress - Any Version (- 5.0.0 +)
-
+=== 1337-RSS-Feed ===
+Contributors: codelyfe@gmail.com
+Donate link: https://www.paypal.me/codelyfe
+Tags: responsive rss feed social share seo
+Requires at least: 3.4
+Tested up to: 5.1.0
+Stable tag: Best Stable Version
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Simple RSS Feed Plugin for WordPress that
-allows an developer to create multiple RSS Feeds using "Widgets".
+allows an developer to create multiple RSS Feeds using "Widgets". 
 
-NOTICE: When updating to 0.2.8!
+NOTICE: When updating to 0.2.8 or above!
 SET: "Feeds to show" within widget section to desired feeds to show. 0-99
 
 == Description ==
@@ -35,7 +34,7 @@ Version 0.3.3
 
 Version 0.3.4
 - Social Share Icons now work again!
-- Bug Fixes. 
+- Bug Fixes.
 
 Version 0.3.5
 - Bug Fixes.
@@ -50,9 +49,11 @@ Version 0.3.6
 
 Version 0.3.7
 - Scan QR code for full RSS Feed.
--- For Best Performance set min to 80x80 or 180x180 (Do not insert "px")
+-- For Best Performance set min to 80x80 or 180x180 
+---(Do not insert "px")
 -- All settings must be filled out!
 - New Widget Settings Layout.
+
 
 Version 0.3.8
 - Twiter text within widget settings is now Twitter lol! :)
@@ -112,6 +113,8 @@ Version 0.4.7
 Version 0.4.8
 - Code Optimization
 
+More coming soon!
+
 == Installation ==
 
 1. Upload `1337-RSS-Feed.php` to the `/wp-content/plugins/` directory
@@ -136,7 +139,10 @@ Yes.
 
 == Changelog ==
 
-NONE
+- Added support shortcode [elitesharebtn]
+- Revised readme.txt
+- Added Support link to widget settings
+- Tested on WordPress 4.8.1
 
 == Upgrade notice ==
 
