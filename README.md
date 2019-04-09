@@ -2,9 +2,7 @@
 
 An RSS Feed plugin made for sharing.
 
-![picture](https://mylyfesocial.com/img/sc00.png)![picture](https://mylyfesocial.com/img/sc01.png)
-
-
+https://wordpress.org/plugins/1337-rss-feed-made-for-sharing/
 
 WordPress - Any Version (- 5.0.0 +)
 
@@ -128,20 +126,3 @@ login to wp-admin
 = Is it really that simple? =
 
 Yes.
-
-== Screenshots ==
-
-1. https://mylyfesocial.com/img/sc00.png
-2. https://mylyfesocial.com/img/sc01.png
-
-== Changelog ==
-
-NONE
-
-== Upgrade notice ==
-
-NONE
-
-== Arbitrary section 1 ==
-
-NONE
